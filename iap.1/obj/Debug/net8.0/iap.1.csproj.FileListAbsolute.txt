@@ -1,0 +1,15 @@
+C:\vs\lap1\iap.1\bin\Debug\net8.0\iap.1.exe
+C:\vs\lap1\iap.1\bin\Debug\net8.0\iap.1.deps.json
+C:\vs\lap1\iap.1\bin\Debug\net8.0\iap.1.runtimeconfig.json
+C:\vs\lap1\iap.1\bin\Debug\net8.0\iap.1.dll
+C:\vs\lap1\iap.1\bin\Debug\net8.0\iap.1.pdb
+C:\vs\lap1\iap.1\obj\Debug\net8.0\iap.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs\lap1\iap.1\obj\Debug\net8.0\iap.1.AssemblyInfoInputs.cache
+C:\vs\lap1\iap.1\obj\Debug\net8.0\iap.1.AssemblyInfo.cs
+C:\vs\lap1\iap.1\obj\Debug\net8.0\iap.1.csproj.CoreCompileInputs.cache
+C:\vs\lap1\iap.1\obj\Debug\net8.0\iap.1.sourcelink.json
+C:\vs\lap1\iap.1\obj\Debug\net8.0\iap.1.dll
+C:\vs\lap1\iap.1\obj\Debug\net8.0\refint\iap.1.dll
+C:\vs\lap1\iap.1\obj\Debug\net8.0\iap.1.pdb
+C:\vs\lap1\iap.1\obj\Debug\net8.0\iap.1.genruntimeconfig.cache
+C:\vs\lap1\iap.1\obj\Debug\net8.0\ref\iap.1.dll
